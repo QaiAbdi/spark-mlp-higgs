@@ -1,4 +1,4 @@
-# spark-mlp-higgs
+# Spark-MLP-Higgs
 The notebook provides using multilayer perceptron for analayzing Higgs Dataset via Spark. The notebook could be executed on IBM Watson. 
 This dataset is used as a benchmark to test Machine Learning algorithms performance on the task of identifying nuclear collisions that produce the HIGGS boson versus background process.
 
